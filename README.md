@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm install```
+
+Practica del curso de git prueba de actualizacion para probar el "git pull"
